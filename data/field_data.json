@@ -1,0 +1,12 @@
+{
+  "field_id": "potrero_norte",
+  "date": "2026-11-02",
+
+  "tmin_c": 14.2,
+  "tmax_c": 27.5,
+  "tmean_c": 20.9,
+
+  "ground_humidity_pct": 7,
+
+  "notes": "Simulated sensor readings for the prototype. ground_humidity_pct is the volumetric water content of the root zone in percent (21.0 = 0.21 m3/m3). tmean_c is optional; if omitted the program uses (tmax_c + tmin_c) / 2 as defined by FAO 56 eq. 9."
+}
